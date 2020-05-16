@@ -40,6 +40,15 @@ def sum_array(integers)
   end
 end
 
+def add_s(words)
+  words.each do |word|
+    if word == words(1)
+  else 
+    word +("s")
+  end
+end
+end
+
   
 
   
