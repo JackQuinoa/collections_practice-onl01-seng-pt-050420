@@ -34,6 +34,7 @@ def find_a(strings)
       string
     else
       nil 
+    end
   end
 end 
 
