@@ -18,8 +18,8 @@ def swap_elements(elements)
   elements[0], elements[1], elements[2] = elements[0], elements[2], elements[1]
 end
 
-#def reverse_array(integers)
- # integers.sort |a , b|
-  #
-#end#
+def reverse_array(integers)
+ integers
+  
+end
 
