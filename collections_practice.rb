@@ -34,3 +34,14 @@ def find_a(strings)
   end
 end 
 
+def sum_array(integers)
+  
+end
+  
+  
+  
+  
+  
+  
+  
+
