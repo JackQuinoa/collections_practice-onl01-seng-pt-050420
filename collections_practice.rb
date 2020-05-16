@@ -37,7 +37,8 @@ end
 def sum_array(integers)
   integers.inject {
 end
-  
+  (5..10).inject { |sum, n| sum + n }            #=> 45
+
   
   
   
