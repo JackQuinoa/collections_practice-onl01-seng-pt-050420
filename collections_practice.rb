@@ -25,6 +25,6 @@ end
 def kesha_maker(strings)
   new_array = []
   new_array << strings.each do
-    string[3]
+    string[3] = "$"
 end
 
