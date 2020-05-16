@@ -35,7 +35,7 @@ def find_a(strings)
 end 
 
 def sum_array(integers)
-  
+  integers.inject do |integer|
 end
   
   
