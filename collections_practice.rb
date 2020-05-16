@@ -41,7 +41,7 @@ def sum_array(integers)
 end
 
 def add_s(words)
-  words.each do |word|  
+  words.map do |word|  
   word + "s"
   end
 end
