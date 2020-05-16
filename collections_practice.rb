@@ -41,12 +41,9 @@ def sum_array(integers)
 end
 
 def add_s(words)
-  words.each do |word|
-    if word == words(1)
-  else 
-    word +("s")
+  words.each do |word|  
+  word = word +"s"
   end
-end
 end
 
   
