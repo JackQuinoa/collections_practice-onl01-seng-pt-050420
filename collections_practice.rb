@@ -23,10 +23,8 @@ def reverse_array(integers)
 end
 
 def kesha_maker(strings)
-  new_array = []
-  new_array << strings.each do |string|
+  strings.map do |string|
     string[2] = "$"
   end
-  new_array
 end
 
